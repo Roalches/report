@@ -1,0 +1,9 @@
+{"post":[
+    {"id" : 20,
+    "title" : "Algun titulo",
+    "author" : "Ronaldo"}
+],
+"comments":[
+     {"id" : 1 , "Body" : "Perfect" , "postid": "El que sigue :v"}
+],
+"profile":{"name":"Adam"}}
